@@ -20,5 +20,5 @@ We show here a simulation of batch of images that we generated using our model u
 
 ### Datasets
 
-
+We trained two different models using the datasets [MNIST](http://yann.lecun.com/exdb/mnist/) and [SVHN](http://ufldl.stanford.edu/housenumbers/)
 

@@ -17,6 +17,11 @@ We show here a simulation of batch of images that we generated using our model u
   <img src="https://github.com/danalejosolerma/minimal_diffusion/blob/main/results/gif-mnist.gif?raw=true" alt="MNIST simulation">
 </div>
 
+
+<p align="center">
+  <img src="https://github.com/danalejosolerma/minimal_diffusion/blob/main/results/gif-mnist.gif?raw=true" alt="MNIST" width="274" height="274" />
+  <img src="[URL_DU_SECOND_GIF](https://github.com/danalejosolerma/minimal_diffusion/blob/main/results/gif-house-numbers.gif?raw=true)" alt="SVHN" width="274" height="274" />
+</p>
 ### Datasets
 
 

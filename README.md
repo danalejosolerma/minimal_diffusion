@@ -6,7 +6,6 @@ In our project, we trained a deep diffusion model (DDPM) by creating a simplifie
 To execute notebooks of this repository, you should install dependancies using : 
 
 ```
-bash
 pip install -r requirements.txt
 ```
 

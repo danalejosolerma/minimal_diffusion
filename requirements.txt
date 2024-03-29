@@ -1,7 +1,6 @@
 matplotlib
-opencv-python
-
-
-#sudo apt-get update
-#sudo apt-get install libgl1 -y
-#sudo apt-get install libglib2.0-0 -y
+torch
+torchvision
+tqdm
+pillow
+ipython
